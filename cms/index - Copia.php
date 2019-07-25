@@ -3,6 +3,7 @@
   <!-- Page Content -->
   <div class="container">
   	
+		<h5>Destaques</h5>
 	  <hr>
 	
     <div class="row">
@@ -68,7 +69,6 @@
 	  <hr>
 
         <div class="row">
-		
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
@@ -79,7 +79,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -96,7 +95,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -113,7 +111,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -130,7 +127,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -147,7 +143,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -164,7 +159,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -181,7 +175,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -198,7 +191,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -215,7 +207,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -233,7 +224,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -250,7 +240,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -267,7 +256,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -284,7 +272,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -301,7 +288,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -318,7 +304,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -335,7 +320,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -352,7 +336,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
@@ -369,7 +352,6 @@
                 </h4>
                 <h5>$24.99</h5>
                 <p class="card-text"></p>
-				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
               <div class="card-footer">
                 <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>

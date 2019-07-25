@@ -20,7 +20,7 @@
             </div>
 			<div class="col-sm-3">
 				<h4>Redes Socias</h4>
-					<a href=""><li>Facebook</li></a>				
+					<a href=""><li><i class="fab fa-facebook"></i>Facebook</li></a>				
             </div>
 		</div>
 	</div>
