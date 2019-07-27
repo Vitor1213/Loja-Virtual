@@ -3,19 +3,26 @@
 	<div class="container">
 		<div class= "row">
 			<div class="col-sm-3">
-				<h4>Informações</h4>
+				<h4>CATEGORIAS</h4>
 					<ul>
-						<a href="quemsomos.php"><li>Quem Somos</li></a>
-						<a href="termos.php"><li>Termos de Uso</li></a>
-						<a href="politica.php"><li>Politica do Site</li></a>
+						<a href="catps.php"><li>PLAYSTATION</li></a>
+						<a href="catx.php"><li>XBOX</li></a>
+						<a href="catn.php"><li>NINTENDO</li></a>
 					</ul>
                 </div>
             <div class="col-sm-3">
-				<h4>Serviços ao Cliente</h4>
-					<a href="contato.php"><li>Fale Conosco</li></a>
+			<h4>INSTITUCIONAL</h4>
+					<ul>
+						<a href="quemsomos.php"><li>QUEM SOMOS</li></a>
+						<a href="comocomprar.php"><li>COMO COMPRAR</li></a>
+						<a href="seguranca.php"><li>SEGURANÇA</li></a>
+						<a href="envio.php"><li>ENVIO</li></a>
+						<a href="pagamentos.php"><li>FORMAS DE PAGAMENTO</li></a>
+						<a href="garantia.php"><li>TERMOS DE GARANTIA</li></a>
+					</ul>
              </div>
             <div class="col-sm-3">
-				<h4>Formas de Pagamento</h4>
+				<h4>CONTATO</h4>
 					
             </div>
 			<div class="col-sm-3">

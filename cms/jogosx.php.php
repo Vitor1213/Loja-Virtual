@@ -37,7 +37,7 @@
       <!-- /.col-lg-3 -->
 
 		<div class="col-lg-9">
-			  <h5>Playstation-Jogos</h5>
+			  <h5>Xbox-Jogos</h5>
 	  <hr>
 
         <div class="row">
