@@ -7,8 +7,8 @@
 	
     <div class="row">
 
-      <div class="col-lg-3">
-	  			  <h5>Destaques</h5>
+      <div class="col-lg-2">
+	  			  <h5>Categorias</h5>
 	  <hr>
         <a href="catps.php"><h4 class="my-4">Playstation</h4></a>
         <div class="list-group">
@@ -32,10 +32,13 @@
         </div>
 		
 		</div>
-    
+		
+		
+		
+
       <!-- /.col-lg-3 -->
 
-      <div class="col-lg-9">
+      <div class="col-lg-10">
 
         <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
           <ol class="carousel-indicators">
@@ -382,7 +385,9 @@
         <!-- /.row -->
 
       </div>
-      <!-- /.col-lg-9 -->
+      <!-- /.col-lg-9 -->,
+	  
+	  
 
     </div>
     <!-- /.row -->

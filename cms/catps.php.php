@@ -61,15 +61,19 @@
  
       </div><!-- /.col-lg-3 -->
       <div class="col-lg-3 text-center">
+	   <a href="jogosps.php">
          <div class=""> <img src="img/cd-175x175.jpg" alt="" class="img-circle topmar"> 
 	  <h2>Jogos</h2> 
       </div><!-- /.col-lg-4 -->
+	  </a>
 	  </div>
 	  
       <div class="col-lg-3 text-center">
+	   <a href="acessoriosps.php">
          <div class=" "> <img src="img/cont-ps4-175x175.png" alt="" class="img-circle topmar"> 
 	  <h2>Acessórios</h2>
       </div><!-- /.col-lg-4 -->
+	  </a>
     </div><!-- /.row -->
 
 
