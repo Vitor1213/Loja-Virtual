@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v3.8.5">
-    <title>Signin Template · Bootstrap</title>
+    <title>Login</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/sign-in/">
 
@@ -37,18 +37,18 @@
   <body class="text-center">
     <form class="form-signin">
   <img class="mb-4" src="/docs/4.3/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
-  <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
-  <label for="inputEmail" class="sr-only">Email address</label>
-  <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
-  <label for="inputPassword" class="sr-only">Password</label>
-  <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+  <h1 class="h3 mb-3 font-weight-normal">Entre com o seu cadastro!</h1>
+  <label for="inputEmail" class="sr-only">E-mail</label>
+  <input type="email" id="inputEmail" class="form-control" placeholder="Digite seu endereço de e-mail" required autofocus>
+  <label for="inputPassword" class="sr-only">Senha</label>
+  <input type="password" id="inputPassword" class="form-control" placeholder="Digite sua senha" required>
   <div class="checkbox mb-3">
     <label>
-      <input type="checkbox" value="remember-me"> Remember me
+      <input type="checkbox" value="remember-me"> Lembrar de mim
     </label>
   </div>
-  <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-  <p class="mt-5 mb-3 text-muted">&copy; 2017-2019</p>
+  <button class="btn btn-lg btn-primary btn-block" type="submit">Entre</button>
+  <p class="mt-5 mb-3 text-muted">&copy; 2019</p>
 </form>
 </body>
 </html>
