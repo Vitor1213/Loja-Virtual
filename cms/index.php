@@ -177,12 +177,12 @@
 		  
 		   <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/nintendo/nintendo-console1.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Four</a>
+                  <a href="#">Console 1</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$149.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -194,12 +194,12 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/nintendo/nintendo-console2.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Five</a>
+                  <a href="#">Console 2</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$329.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -211,12 +211,12 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/nintendo/nintendo-jogos1.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Six</a>
+                  <a href="#">Jogo 1</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$34.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -229,12 +229,12 @@
 		  
 		   <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/nintendo/nintendo-jogos2.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Four</a>
+                  <a href="#">Jogo 2</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$24.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -246,12 +246,12 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/nintendo/nintendo-acessorios1.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Five</a>
+                  <a href="#">Acessórios 1</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$74.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -263,12 +263,12 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/nintendo/nintendo-acessorios2.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Six</a>
+                  <a href="#">Acessórios 2</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$64.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -280,12 +280,12 @@
 
 		   <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/xbox/xbox-console1.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Four</a>
+                  <a href="#">Console 1</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$449.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -297,12 +297,12 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/xbox/xbox-console2.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Five</a>
+                  <a href="#">Console 2</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$419.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -314,12 +314,12 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/xbox/xbox-jogos1.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Six</a>
+                  <a href="#">Jogo 1</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$74.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -331,12 +331,12 @@
 
 		   <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/xbox/xbox-jogos2.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Four</a>
+                  <a href="#">Jogo 2</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$49.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -348,12 +348,12 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/xbox/xbox-acessorios1.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Five</a>
+                  <a href="#">Acessórios 1</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$59.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
@@ -365,12 +365,12 @@
 
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+              <a href="#"><img class="card-img-top" src="img/xbox/xbox-acessorios2.jpg" alt=""></a>
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="#">Item Six</a>
+                  <a href="#">Acessórios 2</a>
                 </h4>
-                <h5>$24.99</h5>
+                <h5>R$14.99</h5>
                 <p class="card-text"></p>
 				        <a href="/products/three-days-grace-outsider-spinning-pin" class="btn btn-secondary btn-block">Comprar</a>
               </div>
