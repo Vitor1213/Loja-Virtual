@@ -97,8 +97,8 @@
  
   <ul class="nav navbar-nav navbar-right">
         <li><a href="login.php" class="logar">Login</a></li>
-        <li><a href="/account/register" class="register">Cadastre-se</a></li>
-
+        <li><a href="cadastro.php" class="register">Cadastre-se</a></li>
+<!--/account/register-->
 				<li class="dropdown ">
 					<a class="cartCount" href="/cart" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-shopping-cart"></i> <span class="badge">0</span> <span class="caret"></span></a>     
 					<ul class="cart-dropdown dropdown-menu" role="menu">

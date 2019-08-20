@@ -27,7 +27,7 @@
 	<p>Preencha o formulário abaixo que responderemos para você o mais breve possível.</p>
 	<p>Ou se preferir entre em contato pelo telefone (21) 99999-4949.</p>
   <form>
-  <div class="form-group tex-end">
+  <div class="form-group">
     <label for="exampleFormControlInput1">Nome*</label>
     <input type="nome" class="form-control" id="exampleFormControlInput1" placeholder="Digite seu nome.">
     <label for="exampleFormControlInput1">Email*</label>
