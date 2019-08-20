@@ -2,12 +2,9 @@
 
   <!-- Page Content -->
   <div class="container">
-  	
-	  <hr>
-	
     <div class="row">
 
-      <div class="col-lg-2">
+      <div class="col-lg-3">
 	  			  <h5>Categorias</h5>
 	  <hr>
         <a href="catps.php"><h4 class="my-4">Playstation</h4></a>
@@ -38,7 +35,7 @@
 
       <!-- /.col-lg-3 -->
 
-      <div class="col-lg-10">
+      <div class="col-lg-9">
 
         <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
           <ol class="carousel-indicators">

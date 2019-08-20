@@ -43,11 +43,29 @@
   </style>
 
 </head>
+<body>
 
 <header>
+<div class="row text-center">
+<div class="col-4">
+1
+</div>
+<div class="col-4">
+2
+</div>
+<div class="col-4">
+3
+</div>
+</div>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h1>My First Bootstrap 4 Page</h1>
+  <p>Resize this responsive page to see the effect!</p> 
+</div>
 
 
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
+
 		
 			                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                       <span class="navbar-toggler-icon"></span>

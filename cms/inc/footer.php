@@ -23,11 +23,12 @@
              </div>
             <div class="col-sm-3">
 				<h4>CONTATO</h4>
+				<a href="faleconosco.php"><li>FALE CONOSCO</li></a>		
 					
             </div>
 			<div class="col-sm-3">
 				<h4>Redes Socias</h4>
-					<a href=""><li><i class="fab fa-facebook"></i>Facebook</li></a>				
+					<a href=""><li><i class="fab fa-facebook"></i>FACEBOOK</li></a>				
             </div>
 		</div>
 	</div>
