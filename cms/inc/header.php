@@ -40,13 +40,19 @@
 	   height: 200px;
 	  
   } 
+  
+    .bg-3{
+	  
+	  background-color: black;
+	  
+  } 
   </style>
 
 </head>
 <body>
 
 <header>
-<div class="row text-center">
+<div class="row bg-3 text-center">
 <div class="col-4">
 1
 </div>

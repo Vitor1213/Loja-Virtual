@@ -3,10 +3,11 @@
   <!-- Page Content -->
   <div class="container">
 
+	
     <div class="row">
 
       <div class="col-lg-3">
-	  			  <h5>Categorias</h5>
+	  			 <h5>Categorias</h5>
 	  <hr>
         <a href="catps.php"><h4 class="my-4">Playstation</h4></a>
         <div class="list-group">
@@ -34,12 +35,12 @@
       <!-- /.col-lg-3 -->
 
 		<div class="col-lg-9">
-			  <h5>Nintendo-Jogos</h5>
+			  <h5>Playstation-Jogos</h5>
 	  <hr>
 
         <div class="row">
-		
-		
+
+     		
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card h-100">
               <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>

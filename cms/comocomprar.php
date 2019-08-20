@@ -2,9 +2,7 @@
 
   <!-- Page Content -->
   <div class="container">
-  
-			  <h5>Destaques</h5>
-	  <hr>
+
 
 	
     <div class="row">

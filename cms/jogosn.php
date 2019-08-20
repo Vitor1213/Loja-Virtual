@@ -6,7 +6,7 @@
     <div class="row">
 
       <div class="col-lg-3">
-	  			  <h5>Categorias</h5>
+	  			   <h5>Categorias</h5>
 	  <hr>
         <a href="catps.php"><h4 class="my-4">Playstation</h4></a>
         <div class="list-group">

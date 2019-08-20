@@ -25,34 +25,20 @@
   <div class="container marketing text-center">
   
 	<p>Preencha o formulário abaixo que responderemos para você o mais breve possível.</p>
-	<p>Ou se preferir entre em contato pelo telefone (48) 99167-4171.</p>
+	<p>Ou se preferir entre em contato pelo telefone (21) 99999-4949.</p>
   <form>
-  <div class="form-group">
-    <label for="exampleFormControlInput1">Email address</label>
+  <div class="form-group tex-end">
+    <label for="exampleFormControlInput1">Nome*</label>
+    <input type="nome" class="form-control" id="exampleFormControlInput1" placeholder="Digite seu nome.">
+    <label for="exampleFormControlInput1">Email*</label>
     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
   </div>
+  <label for="exampleFormControlInput1">Telefone*</label>
+    <input type="telefone" class="form-control" id="exampleFormControlInput1" placeholder="Digite seu telefone.">
+  <label for="exampleFormControlInput1">Assunto</label>
+    <input type="assunto" class="form-control" id="exampleFormControlInput1" placeholder="Assunto">
   <div class="form-group">
-    <label for="exampleFormControlSelect1">Example select</label>
-    <select class="form-control" id="exampleFormControlSelect1">
-      <option>1</option>
-      <option>2</option>
-      <option>3</option>
-      <option>4</option>
-      <option>5</option>
-    </select>
-  </div>
-  <div class="form-group">
-    <label for="exampleFormControlSelect2">Example multiple select</label>
-    <select multiple class="form-control" id="exampleFormControlSelect2">
-      <option>1</option>
-      <option>2</option>
-      <option>3</option>
-      <option>4</option>
-      <option>5</option>
-    </select>
-  </div>
-  <div class="form-group">
-    <label for="exampleFormControlTextarea1">Example textarea</label>
+    <label for="exampleFormControlTextarea1">Menssagem</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
 </form>

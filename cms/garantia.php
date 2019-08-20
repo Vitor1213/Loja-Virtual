@@ -2,9 +2,7 @@
 
   <!-- Page Content -->
   <div class="container">
-  
-			  <h5>Garantia</h5>
-	  <hr>
+
 
 	
     <div class="row">
