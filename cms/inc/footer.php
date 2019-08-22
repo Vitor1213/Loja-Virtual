@@ -34,10 +34,19 @@
 	</div>
 </div>
 
-<footer class="py-5 bg-dark">
+<footer class="py-5 bg-footer2">
 
 
-    <div class="container">
+    <div class="container bg-footer3">
+ 
+    </div>
+    <!-- /.container -->
+  </footer>
+
+<footer class="py-5 bg-footer3">
+
+
+    <div class="container bg-footer3">
       <p class="m-0 text-center text-white">Copyright &copy; Your Website 2019</p>
     </div>
     <!-- /.container -->

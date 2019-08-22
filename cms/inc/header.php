@@ -46,6 +46,14 @@
 	  background-color: black;
 	  
   } 
+    .bg-footer2{
+		 background-color: black;
+	
+  }
+  .bg-footer3{
+	  	  background-color: black;
+	  
+  }
   </style>
 
 </head>
@@ -53,14 +61,27 @@
 
 <header>
 <div class="row bg-3 text-center">
-<div class="col-4">
+<div class="col-8">
 1
 </div>
-<div class="col-4">
-2
+
+<div class="col-2">
+        <a href="cadastro.php" class="register">Cadastre-se</a>
+		  <a href="login.php" class="logar">Login</a>
+<!--/account/register-->
+
 </div>
-<div class="col-4">
-3
+<div class="col-2">
+				<li class="dropdown ">
+					<a class="cartCount" href="/cart" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-shopping-cart"></i> <span class="badge">0</span> <span class="caret"></span></a>     
+					<ul class="cart-dropdown dropdown-menu" role="menu">
+						<li class="divider"></li>
+						<li class="cart-btns text-center">
+							<a href="/cart" class="btn btn-primary ajax-cart-btn ajax-cart-view-btn">View Cart</a><a href="/checkout" class="btn btn-main ajax-cart-btn ajax-cart-checkout-btn">Checkout</a>
+						</li>
+					</ul>
+				</li> 
+
 </div>
 </div>
 <div class="jumbotron text-center" style="margin-bottom:0">
@@ -95,19 +116,6 @@
                       </li>
                       </ul>
  
-  <ul class="nav navbar-nav navbar-right">
-        <li><a href="login.php" class="logar">Login</a></li>
-        <li><a href="cadastro.php" class="register">Cadastre-se</a></li>
-<!--/account/register-->
-				<li class="dropdown ">
-					<a class="cartCount" href="/cart" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-shopping-cart"></i> <span class="badge">0</span> <span class="caret"></span></a>     
-					<ul class="cart-dropdown dropdown-menu" role="menu">
-						<li class="divider"></li>
-						<li class="cart-btns text-center">
-							<a href="/cart" class="btn btn-primary ajax-cart-btn ajax-cart-view-btn">View Cart</a><a href="/checkout" class="btn btn-main ajax-cart-btn ajax-cart-checkout-btn">Checkout</a>
-						</li>
-					</ul>
-				</li> 
 				</div>
                  </nav>
 </header>

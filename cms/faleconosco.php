@@ -26,23 +26,75 @@
   
 	<p>Preencha o formulário abaixo que responderemos para você o mais breve possível.</p>
 	<p>Ou se preferir entre em contato pelo telefone (21) 99999-4949.</p>
-  <form>
-  <div class="form-group">
-    <label for="exampleFormControlInput1">Nome*</label>
-    <input type="nome" class="form-control" id="exampleFormControlInput1" placeholder="Digite seu nome.">
-    <label for="exampleFormControlInput1">Email*</label>
-    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-  </div>
-  <label for="exampleFormControlInput1">Telefone*</label>
-    <input type="telefone" class="form-control" id="exampleFormControlInput1" placeholder="Digite seu telefone.">
-  <label for="exampleFormControlInput1">Assunto</label>
-    <input type="assunto" class="form-control" id="exampleFormControlInput1" placeholder="Assunto">
-  <div class="form-group">
-    <label for="exampleFormControlTextarea1">Menssagem</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-  </div>
-</form>
 
+<?php
+if (isset($_POST['BTEnvia'])) {
+ 
+ //Variaveis de POST, Alterar somente se necessário 
+ //====================================================
+ $nome = $_POST['nome'];
+ $email = $_POST['email'];
+ $telefone = $_POST['telefone']; 
+ $menssagem = $_POST['menssagem'];
+ //====================================================
+ 
+ //REMETENTE --> ESTE EMAIL TEM QUE SER VALIDO DO DOMINIO
+ //==================================================== 
+ $email_remetente = "email@doseudominio"; // deve ser uma conta de email do seu dominio 
+ //====================================================
+ 
+ //Configurações do email, ajustar conforme necessidade
+ //==================================================== 
+ $email_destinatario = "email@querecebe"; // pode ser qualquer email que receberá as mensagens
+ $email_reply = "$email"; 
+ $email_assunto = "Contato formmail"; // Este será o assunto da mensagem
+ //====================================================
+ 
+ //Monta o Corpo da Mensagem
+ //====================================================
+ $email_conteudo = "Nome = $nome \n"; 
+ $email_conteudo .= "Email = $email \n";
+ $email_conteudo .= "Telefone = $telefone \n"; 
+ $email_conteudo .= "Menssagem = $menssagem \n"; 
+ //====================================================
+ 
+ //Seta os Headers (Alterar somente caso necessario) 
+ //==================================================== 
+ $email_headers = implode ( "\n",array ( "From: $email_remetente", "Reply-To: $email_reply", "Return-Path: $email_remetente","MIME-Version: 1.0","X-Priority: 3","Content-Type: text/html; charset=UTF-8" ) );
+ //====================================================
+ 
+ //Enviando o email 
+ //==================================================== 
+ if (mail ($email_destinatario, $email_assunto, nl2br($email_conteudo), $email_headers)){ 
+ echo "</b>E-Mail enviado com sucesso!</b>"; 
+ } 
+ else{ 
+ echo "</b>Falha no envio do E-Mail!</b>"; } 
+ //====================================================
+} 
+?>
+ 
+ <form action="<? $PHP_SELF; ?>" method="POST"> 
+ <p> 
+ Nome:<br /> 
+ <input type="text" size="100" name="nome"> 
+ </p>   
+ <p> 
+ E-mail:<br /> 
+ <input type="text" size="100" name="email"> 
+ </p>   
+ <p> 
+ Telefone:<br /> 
+ <input type="text" size="100" name="telefone"> 
+ </p>   
+ <p> 
+ Menssagem:<br />  
+     <textarea class="form-control" id="exampleFormControlTextarea1 name=""mensagem" rows="3"></textarea>
+ </p>   
+ <p>
+          <input type="submit" name="BTEnvia" value="Enviar"> 
+   <input type="reset" name="BTApaga" value="Apagar">
+        </p>
 
     
 
