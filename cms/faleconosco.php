@@ -27,6 +27,7 @@
 	<p>Preencha o formulário abaixo que responderemos para você o mais breve possível.</p>
 	<p>Ou se preferir entre em contato pelo telefone (21) 99999-4949.</p>
 
+
 <?php
 if (isset($_POST['BTEnvia'])) {
  
@@ -35,7 +36,7 @@ if (isset($_POST['BTEnvia'])) {
  $nome = $_POST['nome'];
  $email = $_POST['email'];
  $telefone = $_POST['telefone']; 
- $menssagem = $_POST['menssagem'];
+ $mensagem = $_POST['mensagem'];
  //====================================================
  
  //REMETENTE --> ESTE EMAIL TEM QUE SER VALIDO DO DOMINIO
@@ -55,7 +56,7 @@ if (isset($_POST['BTEnvia'])) {
  $email_conteudo = "Nome = $nome \n"; 
  $email_conteudo .= "Email = $email \n";
  $email_conteudo .= "Telefone = $telefone \n"; 
- $email_conteudo .= "Menssagem = $menssagem \n"; 
+ $email_conteudo .= "Mensagem = $mensagem \n"; 
  //====================================================
  
  //Seta os Headers (Alterar somente caso necessario) 
@@ -77,27 +78,24 @@ if (isset($_POST['BTEnvia'])) {
  <form action="<? $PHP_SELF; ?>" method="POST"> 
  <p> 
  Nome:<br /> 
- <input type="text" size="100" name="nome"> 
+ <input type="text" size="30" name="nome"> 
  </p>   
  <p> 
  E-mail:<br /> 
- <input type="text" size="100" name="email"> 
+ <input type="text" size="30" name="email"> 
  </p>   
  <p> 
  Telefone:<br /> 
- <input type="text" size="100" name="telefone"> 
+ <input type="text" size="35" name="telefone"> 
  </p>   
  <p> 
- Menssagem:<br />  
-     <textarea class="form-control" id="exampleFormControlTextarea1 name=""mensagem" rows="3"></textarea>
+ Mensagem:<br /> 
+ <input type="text" size="35" name="mensagem"> 
  </p>   
  <p>
           <input type="submit" name="BTEnvia" value="Enviar"> 
    <input type="reset" name="BTApaga" value="Apagar">
         </p>
-
-    
-
 
        
       
